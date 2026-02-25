@@ -1,7 +1,7 @@
-var main = "100000959749712";
+var main = "100048197612158";
 
 module.exports.config = {
-  name: "resend",
+  name: "uns",
   version: "2.0.0",
   permssion: 1,
   credits: "Nayan",
